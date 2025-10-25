@@ -6,15 +6,15 @@
   "id": "did:web:shikharv10tdc.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:shikharv10tdc.github.io#1fabab4b4eaaaeea0abdf2149684516ba8edd52ba5d7fb69ff0e09f2930cef6a",
+      "id": "did:web:shikharv10tdc.github.io#31893b58b514be636d977ce42030e015c98c03b2b9d0c669e83656bd66cf93bc",
       "type": "JsonWebKey2020",
       "controller": "did:web:shikharv10tdc.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "_i5z5T6e-wcurBaoEY2-eYqcX4Q2al3pU7WBygml9xI=",
-        "y": "IdNtM88CQ0aSxdz0DxQ08uZM7AWN2Y5UkNa_8saMCzs=",
-        "kid": "1fabab4b4eaaaeea0abdf2149684516ba8edd52ba5d7fb69ff0e09f2930cef6a",
+        "x": "a1L93UECLDqde4e74VuAkJQ8XVxefC_PG9uFGLA13aY=",
+        "y": "KNSiI8w8Qe9vOWs5bQtb2PowwgHD0VXfxvKSN4iLvck=",
+        "kid": "31893b58b514be636d977ce42030e015c98c03b2b9d0c669e83656bd66cf93bc",
         "alg": "ES256"
       }
     }
